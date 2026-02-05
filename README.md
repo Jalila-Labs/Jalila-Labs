@@ -4,7 +4,7 @@
 
 I’m a **Software Engineering student** who loves building **useful data stuff**: dashboards that make decisions easier, business analysis that reduces chaos, and ML projects that answer clear questions.
 
-✨ Calm energy, clean work, and I care a lot about making things **understandable**.
+Calm energy, clean work, and I care a lot about making things **understandable**.
 
 ---
 
@@ -36,8 +36,8 @@ Understanding what impacts conversion and building analysis/modeling around meas
 
 ---
 
-### Fun facts (still professional, just human)
-- 🧶 I crochet (including detailed character dolls) — patience + craft is kind of my thing  
+### Fun facts about me 
+- 🧶 I crochet (patience + craft is kind of my thing) 
 - 🎧 I’m always hunting for good music (I work better with a soundtrack)  
 - 📺 Comfort shows are real (yes, *Gilmore Girls* energy)   
 - 📚 I genuinely enjoy learning new topics 
